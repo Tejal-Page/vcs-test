@@ -11,7 +11,7 @@ engine = Engine.create();
 world= engine.world;
 
 box1 = new Box(230,200,50,10);
-box2 = new Box(200,100,50,10);
+//box2 = new Box(200,100,50,10);
 
 ground= new Ground(200,380,300,20);
 }
